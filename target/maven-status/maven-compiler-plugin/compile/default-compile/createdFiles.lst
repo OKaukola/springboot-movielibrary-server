@@ -1,0 +1,8 @@
+com\example\movielibraryserver\model\User.class
+com\example\movielibraryserver\UserRepository.class
+com\example\movielibraryserver\controller\UserController.class
+com\example\movielibraryserver\controller\AuthenticationController.class
+com\example\movielibraryserver\controller\MovieController.class
+com\example\movielibraryserver\MovieRepository.class
+com\example\movielibraryserver\model\Movie.class
+com\example\movielibraryserver\MovielibraryserverApplication.class
